@@ -54,5 +54,5 @@ document.getElementById("quiz").addEventListener('submit', function (event) {
         }
     }
 
-    document.getElementById('score').textContent = "Score: " + score + " out of 10!";
+    document.getElementById('score').textContent = "Score: " + score + " out of 10! 🍀";
 })
