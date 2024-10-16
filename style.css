@@ -1,0 +1,66 @@
+section {
+    display: block;
+    border-radius: 10px;
+    border: 2px dotted green;
+    padding: 20px;
+    border-width: 2px;
+    margin-bottom: 10px;
+}
+
+label{
+    display: block;
+    margin-bottom: 10px;
+}
+
+input {
+    display: block;
+    width: 100px;
+}
+
+body {
+    background-color: #f0f0f0;
+}
+
+h1 {
+    text-align: center;
+    color: green;
+}
+
+.error {
+    display: block;
+    padding-top: 20px;
+    color: red;
+}
+
+.correct {
+    color: green;
+}
+
+.score {
+    display: block;
+    font-size: 2rem;
+    color: rgb(134, 115, 9);
+    font-weight: 700;
+    padding: 20px;
+    text-align: center;
+
+}
+
+
+input[type='number'] {
+    -moz-appearance:textfield;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+}
+
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1.2rem;
+}
+
+p {
+    text-align: center;
+}
