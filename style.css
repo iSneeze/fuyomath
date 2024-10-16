@@ -64,3 +64,12 @@ body {
 p {
     text-align: center;
 }
+
+.submit {
+    margin-bottom: 32px;
+    margin-left: 32px;
+    width: 250px;
+    display: block;
+    color: green;
+    font-size: 1.5rem;
+}
