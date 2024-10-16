@@ -7,7 +7,7 @@ document.getElementById("quiz").addEventListener('submit', function (event) {
         128,
         0.25,
         1526,
-        120,
+        1200,
         5,
         2.45,
         124,
